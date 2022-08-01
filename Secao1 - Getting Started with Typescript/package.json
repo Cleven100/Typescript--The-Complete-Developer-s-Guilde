@@ -1,0 +1,23 @@
+{
+  "name": "typescript--the-complete-develiper-s-guilde",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Cleven100/Typescript--The-Complete-Develiper-s-Guilde.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Cleven100/Typescript--The-Complete-Develiper-s-Guilde/issues"
+  },
+  "homepage": "https://github.com/Cleven100/Typescript--The-Complete-Develiper-s-Guilde#readme",
+  "dependencies": {
+    "axios": "^0.27.2"
+  }
+}
